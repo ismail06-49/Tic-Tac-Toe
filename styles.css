@@ -32,3 +32,13 @@
     background-color: #3e8e41;
     border: 2px solid #4CAF50;
 }
+
+footer{
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+    color: #000;
+    font-weight: bold;
+}
